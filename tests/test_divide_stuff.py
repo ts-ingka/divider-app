@@ -9,3 +9,9 @@ def test_divide_numbers():
     divider = Divider()
     val = divider.divide_numbers(20, 10)
     assert val == 2
+
+
+def test_divide_numbers_print():
+    divider = Divider()
+    val = divider.divide_numbers_print(20, 10)
+    assert val is None
