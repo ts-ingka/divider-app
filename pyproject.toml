@@ -14,6 +14,7 @@ pprintpp = "^0.4.0"
 pytest = "^5.2"
 pre-commit = "^2.20.0"
 scriv = "^0.16.0"
+tox = "^3.25.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
