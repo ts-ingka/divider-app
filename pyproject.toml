@@ -7,7 +7,7 @@ description = "A very stupid project to learn about how to package apps for PyPy
 authors = ["Thomas Steck <thomas.steck@ingka.ikea.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8"
 pprintpp = "^0.4.0"
 
 [tool.poetry.dev-dependencies]
