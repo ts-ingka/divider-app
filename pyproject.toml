@@ -1,3 +1,5 @@
+readme = "README.md"
+
 [tool.poetry]
 name = "divide-stuff"
 version = "0.1.0"
