@@ -12,8 +12,8 @@
 
 [pypi-image]: https://img.shields.io/pypi/v/divide-stuff
 [pypi-url]: https://pypi.org/project/divide-stuff
-[build-image]: https://github.com/ts-ingka/divider-app/actions/workflows/build.yaml/badge.svg
-[build-url]: https://github.com/ts-ingka/divider-app/actions/workflows/build.yaml
+[build-image]: https://github.com/ts-ingka/divider-app/actions/workflows/build.yml/badge.svg
+[build-url]: https://github.com/ts-ingka/divider-app/actions/workflows/build.yml
 [stars-image]: https://img.shields.io/github/stars/ts-ingka/divider-app/
 [stars-url]: https://github.com/ts-ingka/divider-app
 [versions-image]: https://img.shields.io/pypi/pyversions/divide-stuff/
