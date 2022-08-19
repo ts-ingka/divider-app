@@ -2,7 +2,7 @@ readme = "README.md"
 
 [tool.poetry]
 name = "divide-stuff"
-version = "0.1.0"
+version = "0.1.1"
 description = "A very stupid project to learn about how to package apps for PyPy"
 authors = ["Thomas Steck <thomas.steck@ingka.ikea.com>"]
 

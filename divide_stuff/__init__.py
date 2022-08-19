@@ -2,7 +2,7 @@
 Module Divide Stuff. An amazing project to help you divide stuff.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from pprintpp import pprint as pp
 
