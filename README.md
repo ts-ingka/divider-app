@@ -1,4 +1,7 @@
 # Amazing Divide Stuff Framework
+**This is just a silly repo to experiment with deploying a package to PyPI and setting up good CI/CD practices**
+
+
 It will quite literally divide stuff for you.
 
 ## How to use
