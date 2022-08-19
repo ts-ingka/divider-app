@@ -8,16 +8,14 @@
 [![][stars-image]][stars-url]
 [![][versions-image]][versions-url]
 
-...
-
 <!-- Badges: -->
 
 [pypi-image]: https://img.shields.io/pypi/v/divide-stuff
 [pypi-url]: https://pypi.org/project/divide-stuff
-[build-image]: https://github.com/ts-ingka/divide-stuff/actions/workflows/build.yaml/badge.svg
-[build-url]: https://github.com/ts-ingka/divide-stuff/actions/workflows/build.yaml
-[stars-image]: https://img.shields.io/github/stars/ts-ingka/divide-stuff/
-[stars-url]: https://github.com/ts-ingka/divide-stuff
+[build-image]: https://github.com/ts-ingka/divider-app/actions/workflows/build.yaml/badge.svg
+[build-url]: https://github.com/ts-ingka/divider-app/actions/workflows/build.yaml
+[stars-image]: https://img.shields.io/github/stars/ts-ingka/divider-app/
+[stars-url]: https://github.com/ts-ingka/divider-app
 [versions-image]: https://img.shields.io/pypi/pyversions/divide-stuff/
 [versions-url]: https://pypi.org/project/divide-stuff/
 
